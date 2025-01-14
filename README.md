@@ -1,7 +1,5 @@
 ## 👋 Olá, me chamo Matheus e sou um Programador Fullstack!
 
-- Atualmente sou estudante de Sistemas da Informação e estou no processo de desenvolvimento do meu trabalho de conclusão de curso do meu Técnico em Informática!
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuszenker/)
 
 ### Tecnologias que eu utilizo
